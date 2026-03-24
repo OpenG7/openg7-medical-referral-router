@@ -1,6 +1,6 @@
 # OpenG7 Medical Referral Router
 
-![OpenG7 Medical Referral Router](docs/assets/banner-openg7-medical-referral-router.png)
+![OpenG7 Medical Referral Router](assets/openg7-medical-referral-router.png)
 
 Open-source platform for routing medical referrals across facilities, regions, specialties, and operational constraints.
 
